@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1642-water-bottles) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
