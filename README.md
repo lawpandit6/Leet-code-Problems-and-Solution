@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
