@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
