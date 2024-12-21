@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1236-n-th-tribonacci-number) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0002-add-two-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
