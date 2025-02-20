@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0268-missing-number) |
+| [2107-find-unique-binary-string](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/2107-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0319-bulb-switcher) |
+## String
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/2107-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
