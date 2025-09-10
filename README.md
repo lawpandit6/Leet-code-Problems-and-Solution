@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0319-bulb-switcher) |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/lawpandit6/Leet-code-Problems-and-Solution/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
